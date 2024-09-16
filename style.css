@@ -1,5 +1,6 @@
 .page-header{
     background-color: cornflowerblue;
+    background-image: url(./img/pattern.png)
 }
 
 .logo{
@@ -8,6 +9,18 @@
     
 }
 
-.immagine{
-height: 150px;
-}
+.tab{
+    table-layout: auto;
+    
+    }
+
+    .tfine{
+        color: dimgray;
+    }
+
+
+
+
+    
+
+
