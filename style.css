@@ -6,13 +6,9 @@
 .logo{
     width: 150px;
     height: 150px;
-    
 }
-
-.tab{
-    table-layout: auto;
     
-    }
+
 
     .tfine{
         color: dimgray;
@@ -27,6 +23,21 @@
         background-color: aqua;
     }
 
+    .tabella{
+        display: table;
+        
+        border-spacing: 0px;
+        
+
+        
+    }
+    
+
+    
+    
+     
+s
+    
 
    
 
