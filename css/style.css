@@ -17,3 +17,10 @@ address {
   font-weight: bold;
   color: darkgrey;
 }
+img {
+  max-width: 100%;
+}
+
+time {
+  font-size: 0.7rem;
+}
