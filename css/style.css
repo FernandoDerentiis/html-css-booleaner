@@ -24,3 +24,17 @@ img {
 time {
   font-size: 0.7rem;
 }
+
+.tab {
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.riga {
+  background-color: rgb(64, 64, 240);
+  color: white;
+}
+
+.riga-1 {
+  background-color: rgb(126, 153, 233);
+}
